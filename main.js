@@ -4,7 +4,7 @@ images.set("earth", "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/T
 images.set("jupiter", "https://upload.wikimedia.org/wikipedia/commons/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg");
 images.set("mars", "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg");
 images.set("neptune", "https://upload.wikimedia.org/wikipedia/commons/6/63/Neptune_-_Voyager_2_%2829347980845%29_flatten_crop.jpg");
-images.set("saturn", "https://space-facts.com/wp-content/uploads/saturn-v2.jpg");
+images.set("saturn", "https://i.ibb.co/ynhY0sq/saturn.png");
 images.set("uranus", "https://upload.wikimedia.org/wikipedia/commons/2/2e/Uranus_true_colour.jpg");
 images.set("venus", "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg");
 
