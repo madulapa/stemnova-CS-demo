@@ -1,1 +1,1 @@
-# stemnova-CS-demo
+# stemnova-curriculum-demo
